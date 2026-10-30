@@ -49,16 +49,3 @@ Analyzed 393 Facebook posts from Spartan Race (30 Aug – 15 Oct 2016), built an
 * Data storytelling and presentation
 
 ## Dashboard Preview
-
-![Dashboard](images/dashboard.png)
-
-## Project Files
-
-* `Spartan_Race_Presentation.pdf` – Full case study presentation
-* `Spartan_Race_Dashboard.xlsx` – Excel dashboard and analysis
-
-## Contact
-
-* **Author:** L
-* **LinkedIn:** [your link]
-* **Email:** [your email]
