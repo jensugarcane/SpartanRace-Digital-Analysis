@@ -20,21 +20,14 @@ Time range: 30 Aug - 15 Oct 2016 (47 days)
 Includes 393 posts, including post type (photo, video, link, status, event), content pillar, posting date/time, and engagement metrics (likes, comments, shares).
 # Outcome
 The results reflect the metrics needed for content performance analysis. The final dashboard enables analysis across **Post Type, Content Pillar, Day of Week, Hour of Day and Time of Day**.
-* Findings were turned into a **3-part action plan** (format, frequency, scheduling) and a sample content calendar.
+Findings were turned into a **3-part action plan** (format, frequency, scheduling) and a sample content calendar.
 # Dashboard Review
+<p align="center">
+  <img src="Spartan Race Dashboard.png" alt="Dashboard" width="100%">
+</p>
 
-## Recommendations
+# Recommendations
 
 1. **Diversify content format** – Rebalance photo and video, test status posts, and curate high-value link posts.
 2. **Invest in quality, not quantity** – Limit daily posts to 6–10 to protect content quality and organic reach.
 3. **Refine post scheduling** – Add posts on Saturday, add slots at 12:00–13:00 and 01:00, keep 15:00 and 18:00, and cut back 14:00, 16:00–17:00 and 23:00.
-
-## Skills Demonstrated
-
-* Data cleaning and preparation in Excel
-* Descriptive analysis and KPI design (engagement per post, comment rate, sharability rate)
-* PivotTables, charts and interactive dashboard design
-* Turning data into business insights and actionable recommendations
-* Data storytelling and presentation
-
-
